@@ -1,0 +1,12 @@
+{
+  "name": "Whispering Train (Space asteroids)",
+  "short_name": "Whispering Train (Space asteroids)",
+  "id": "com.GDevelop.Asteroids",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
